@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/emilybledsoe/Lab5.svg?token=XMcvMvbNz1CGnuwSEchH&branch=master)](https://travis-ci.com/emilybledsoe/Lab5)
